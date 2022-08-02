@@ -1,1 +1,2 @@
-# buger-app-clone
+# burgerking-clone
+ 
