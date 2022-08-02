@@ -5,10 +5,10 @@ import BuildControls from '../../components/Bread/BuildControls/BuildControls'
 // import Navbar from '../../components/NavBar/Navbar'
 
 const INGREDIENT_PRICES = {
-  salad: 50,
-  cheese: 100,
+  salad: 75,
+  cheese: 25,
   bacon: 70,
-  meat: 10
+  meat: 100
 }
 class Burger extends Component {
 
